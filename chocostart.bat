@@ -39,3 +39,5 @@ choco install advanced-ip-scanner -y
 choco install prusaslicer -y
 choco install blender -y
 choco install vim -y
+choco install golang -y
+choco install atom -y
