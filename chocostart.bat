@@ -37,3 +37,5 @@ choco install qbittorrent -y
 choco install freecad -y
 choco install advanced-ip-scanner -y
 choco install prusaslicer -y
+choco install blender -y
+choco install vim -y
