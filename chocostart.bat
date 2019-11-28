@@ -24,7 +24,6 @@ choco install putty -y -r
 choco install spotify -y -r
 choco install jdk8 -y -r
 choco install etcher -y -r
-choco install hyper -y -r
 choco install putty -y -r
 choco install python3 -y -r
 choco install discord -y -r
