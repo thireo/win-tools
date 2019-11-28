@@ -40,3 +40,4 @@ choco install blender -y -r
 choco install vim -y -r
 choco install golang -y -r
 choco install atom -y -r
+choco install microsoft-windows-terminal -y -r
