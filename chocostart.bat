@@ -3,14 +3,12 @@ System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && 
 choco install steam -y -r
 choco install foxitreader -y -r
 choco install git -y -r
-choco install gitkraken -y -r
 choco install paint.net -y -r
 choco install filezilla -y -r
 choco install notepadplusplus -y -r
 choco install 7zip -y -r
 choco install vlc -y -r
 choco install googlechrome -y -r
-choco install dropbox -y -r
 choco install vscode -y -r
 choco install androidstudio -y -r
 choco install beyondcompare -y -r
@@ -31,12 +29,10 @@ choco install plexmediaserver -y -r
 choco install origin -y -r
 choco install vnc-viewer -y -r
 choco install obs-studio -y -r
-choco install qbittorrent -y -r
 choco install freecad -y -r
 choco install advanced-ip-scanner -y -r
 choco install prusaslicer -y -r
 choco install blender -y -r
 choco install vim -y -r
 choco install golang -y -r
-choco install atom -y -r
 choco install microsoft-windows-terminal -y -r
