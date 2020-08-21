@@ -1,3 +1,3 @@
 @ECHO OFF
-cp .bash_profile ~/.bash_profile
-echo Copied .bash_profile to ~
+cat .bashrc >> ~/.bashrc
+echo Appended .bashrc to USERPROFILE
