@@ -8,4 +8,6 @@ git clone git@github.com:KiCad/kicad-footprints.git
 git clone git@github.com:KiCad/kicad-symbols.git
 git clone git@github.com:KiCad/kicad-packages3d.git
 
-echo Change KICAD_SYMBOL_DIR, KISYSMOD and KISYS3DMOD to ~/gits/xxxxx
+setx -m KICAD_SYMBOL_DIR "%USERPROFILE%\gits\kicad-symbols"
+setx -m KISYSMOD "%USERPROFILE%\gits\kicad-footprints"
+setx -m KISYS3DMOD "%USERPROFILE%\gits\kicad-packages3d"
