@@ -10,9 +10,9 @@ choco install 7zip -y -r
 choco install vlc -y -
 choco install vscode -y -r
 choco install androidstudio -y -r
-choco install beyondcompare -y -r
-choco install miktex -y -r
-choco install texstudio -y -r
+rem choco install beyondcompare -y -r
+rem choco install miktex -y -r
+rem choco install texstudio -y -r
 choco install kicad -y -r
 choco install openvpn -y -r
 choco install audacity -y -r
@@ -31,7 +31,7 @@ choco install freecad -y -r
 choco install advanced-ip-scanner -y -r
 choco install prusaslicer -y -r
 choco install blender -y -r
-choco install vim -y -r
+rem choco install vim -y -r
 choco install golang -y -r
 rem choco install microsoft-windows-terminal -y -r
 choco install sqLitebrowser -y -r
