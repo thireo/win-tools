@@ -39,3 +39,4 @@ choco install insomnia-rest-api-client -y -r
 choco install avrdude -y -r
 choco install zephyr-gnuarmemb -y -r
 choco install gcc-arm-embedded -y -r
+choco install zadig -y -r
